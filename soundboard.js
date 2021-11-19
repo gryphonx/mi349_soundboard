@@ -1,4 +1,4 @@
-const sounds_file = ['TF2 Nope', 'Alarm', 'Discord', 'Ringtone'];
+const sounds_file = ['TF2Nope', 'Alarm', 'Discord', 'Ringtone'];
 
 sounds_file.forEach((sound) => {
     const btn = document.createElement('button');
